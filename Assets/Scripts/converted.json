@@ -1,0 +1,1045 @@
+{
+  "ERRORCODE": "0",
+  "PRODUCT": {
+    "@BUILD": "12-18-2018",
+    "@NAME": "FileMaker",
+    "@VERSION": "ProAdvanced 17.0.4"
+  },
+  "DATABASE": {
+    "@DATEFORMAT": "D/m/yyyy",
+    "@LAYOUT": "",
+    "@NAME": "EHEM_WP2.2-Database-Pedret-TEST_VERSION.fmp12",
+    "@RECORDS": "14",
+    "@TIMEFORMAT": "k:mm:ss"
+  },
+  "METADATA": {
+    "FIELD": [
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Archive",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Author",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Copyright",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Date",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Description",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Export_DModel",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "GraphMat_Title",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "GraphMat_Type",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "20",
+        "@NAME": "Links",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "mk_GraphMat_ID",
+        "@TYPE": "NUMBER"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Signature",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Graphic_Materials_Link_Monument::Code_Monument",
+        "@TYPE": "TEXT"
+      },
+      {
+        "@EMPTYOK": "YES",
+        "@MAXREPEAT": "1",
+        "@NAME": "Notes",
+        "@TYPE": "TEXT"
+      }
+    ]
+  },
+  "RESULTSET": {
+    "@FOUND": "14",
+    "ROW": [
+      {
+        "@MODID": "19",
+        "@RECORDID": "27",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "I. Lorés"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2011"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Central apse, interior church"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              "https://ubarcelona.sharepoint.com/:i:/r/sites/extub/proj/ehem/Documents%20compartits/03-WP3-Reconstruction%20of%20frescoes/3.1.%20Acquisition%20of%20images/Pedret/Photography/Sant%20Quirze%20de%20Pedret%20by%20Zones/MDCS%20-%20Central%20Apse/ga210623_s-quinze-de-pedret_0559.jpg?csf=1&web=1&e=isrAK9",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000001"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": [
+              "00001",
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "14",
+        "@RECORDID": "28",
+        "COL": [
+          {
+            "DATA": "SPAL"
+          },
+          {
+            "DATA": "Unknown"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "1961"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Interior church - central apse and nave - 1st Restoration"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000002"
+          },
+          {
+            "DATA": "203.125"
+          },
+          {
+            "DATA": [
+              "00001",
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "10",
+        "@RECORDID": "29",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "I. Lorés"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2011"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Exterior of the church"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000003"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": [
+              "00001",
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "12",
+        "@RECORDID": "30",
+        "COL": [
+          {
+            "DATA": "Fundació Institut Amatller d'Art Hispànic, Arxiu Mas"
+          },
+          {
+            "DATA": "Josep Gudiol"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "1937"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Yes"
+          },
+          {
+            "DATA": "Central nave lost painting - north wall"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000004"
+          },
+          {
+            "DATA": "GA_9663_1937"
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "8",
+        "@RECORDID": "31",
+        "COL": [
+          {
+            "DATA": "Fundació Institut Amatller d'Art Hispànic, Arxiu Mas"
+          },
+          {
+            "DATA": "Josep Gudiol"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "1937"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Yes"
+          },
+          {
+            "DATA": "Central nave lost painting"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000005"
+          },
+          {
+            "DATA": "G_66393"
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "9",
+        "@RECORDID": "32",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2007"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "South apse paintings"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000006"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": [
+              "00001",
+              null
+            ]
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "3",
+        "@RECORDID": "33",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2007"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "South apse paintings - Mary with de child"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000007"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "4",
+        "@RECORDID": "34",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2007"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "South apse paintings - Allegory of Ecclesia"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000008"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "4",
+        "@RECORDID": "35",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2007"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "South apse paintings - The wise virgins with the bridegroom"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000009"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "5",
+        "@RECORDID": "36",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2007"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "South apse paintings - The foolish virgins"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              "HOLA",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000010"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": "NOTA"
+          }
+        ]
+      },
+      {
+        "@MODID": "2",
+        "@RECORDID": "37",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2007"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Northern apse paintings"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000011"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "7",
+        "@RECORDID": "38",
+        "COL": [
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "2007"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Norhern apse paintings-Apostles Assembly"
+          },
+          {
+            "DATA": "Photograph"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000012"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "6",
+        "@RECORDID": "39",
+        "COL": [
+          {
+            "DATA": "Imma Lorés"
+          },
+          {
+            "DATA": "Immaculada Lorés, Joan Font i Genis Àvila"
+          },
+          {
+            "DATA": "Immaculada Lorés, Joan Font i Genis Àvila"
+          },
+          {
+            "DATA": "2021"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Floor plan of the church in the 11th century"
+          },
+          {
+            "DATA": "Plan"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000013"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "00001"
+          },
+          {
+            "DATA": null
+          }
+        ]
+      },
+      {
+        "@MODID": "4",
+        "@RECORDID": "40",
+        "COL": [
+          {
+            "DATA": "Imma Lorés"
+          },
+          {
+            "DATA": "Immaculada Lorés, Joan Font i Genis Àvila"
+          },
+          {
+            "DATA": "Immaculada Lorés, Joan Font i Genis Àvila"
+          },
+          {
+            "DATA": "2021"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": "Floor plan of the church in the 11th c. with the central apse highlighted"
+          },
+          {
+            "DATA": "Plan"
+          },
+          {
+            "DATA": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "DATA": "GM000014"
+          },
+          {
+            "DATA": null
+          },
+          {
+            "DATA": [
+              "00001",
+              null
+            ]
+          },
+          {
+            "DATA": null
+          }
+        ]
+      }
+    ]
+  }
+}
